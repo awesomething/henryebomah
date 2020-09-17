@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+Great+Primer:400i');
+
+body {
+  margin: 0;
+  background-color: #fff;
+}
+
+header {
+  height: 646px;
+  background: 
+  linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
+  url(images/craneview.jpg);
+  background-size: cover;
+}
+
+header {
+  background-color: #4c666a;
+  border-bottom: 1px solid #4c666a;
+}
+
+header h1 {
+  text-align: center;
+  color: #fff;
+  font-family: Futura;
+  font-size: 68px;
+  text-transform: uppercase;
+  margin-top: 0px;          
+  margin-bottom: 40px;       
+}
+
+a:active { color: green; }
+a:hover  { color: burlywood; }
+
+img {
+  width: 300px;
+}
+
+.image-circle {
+    border-radius: 50%; 
+}
+
+header h2 {
+  text-align: center;
+  color: #fff;
+  font-family: 'IM Fell Great Primer', serif;
+  font-size: 24px;
+  padding-top: 270px;
+  margin: 0px;                
+}
+
+header h3 {
+  text-align: center;
+  color: #fff;
+}
+
+header p {
+  text-align: center;
+}
+
+header p a {
+  color: #fff;
+  font-family: arial;
+  background-color: #36b3a8;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 15px 20px;       
+  border-radius: 20px;       
+}
+
+/* about html page starts here*/
+h4 {
+  background-color: grey;
+  font-family: 'san serif';
+  font-size: 24px;
+  text-align: center;
+}
+
+.aligncenter{
+  text-align: center
+}
+
+main {
+  height: 623px;
+  background: 
+  linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
+  url(images/imagine.jpg);
+  background-size: cover;
+}
+
+article {
+color: #fff;
+}
+
+/* Past projects page starts here*/
+
+h5 {
+  background-color: #fff;
+  background-image: url("images/craneview.jpg");
+  text-align: center;
+  color: #fff;
+  font-family: Serif;
+  font-size: 18px;
+}
