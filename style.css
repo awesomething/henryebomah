@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=IM+Fell+Great+Primer:400i');
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;700&family=Montserrat:wght@300;700&family=Nanum+Pen+Script&display=swap');
+
 body {
   margin: 0;
   background-color: #fff;
@@ -94,7 +96,6 @@ color: #fff;
 a {
 color: #fff;
 }
-
 /* Past projects page starts here*/
 
 h5 {
@@ -135,7 +136,7 @@ h5 {
   }
 }
 
-/* Contact form starts here */
+/* contact form starts here */
 form label, form p {
   display: block;
   font-size: 18px;
