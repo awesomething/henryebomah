@@ -10,7 +10,22 @@
     text-align: justify;
 }
 
+/* mobile phone flex */
 
+
+.frame {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+/* desktop flex*/
+@media all and (min-width: 600px) {
+  .frame {
+    flex-direction: row;
+  }
+}
 
 body {
     background-image: -webkit-radial-gradient(rgba(31, 28, 28, 0.1), rgba(255, 255, 255, 0.432)), 
