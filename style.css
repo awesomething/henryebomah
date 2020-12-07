@@ -115,13 +115,11 @@ section {
 .group {
   display: flex;
   flex-direction: column;
-  text-align: justify;
 }
 
 .item {
   flex: 1;
   margin: 10px;
-  text-align: justify;
 }
 
 
@@ -135,7 +133,6 @@ section {
 
   .group {
     flex-direction: row;
-    text-align: justify;
   }
 }
 
