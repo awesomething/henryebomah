@@ -59,6 +59,12 @@ header p {
   text-align: center;
 }
 
+h2 {
+  display: flex;
+  flex direction: row;
+  flex-wrap: wrap;
+}
+
 header p a {
   color: #fff;
   font-family: arial;
